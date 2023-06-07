@@ -1,9 +1,9 @@
 {
     "powers": [
-        "bits-and-bones-origin:skeleton/chains_of_death",
-        "origins:elytra",
-        "origins:throw_ender_pearl",
-        "origins:fresh_air"
+        "bits-and-bones-origin:skeleton/burn_in_daylight",
+        "bits-and-bones-origin:skeleton/",
+        "bits-and-bones-origin:skeleton/",
+        "bits-and-bones-origin:skeleton/"
     ],
     "icon": "minecraft:skeleton_skull",
     "order": 0,
