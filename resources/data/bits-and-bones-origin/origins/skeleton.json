@@ -9,8 +9,5 @@
         "bits-and-bones-origin:skeleton/archer"
     ],
     "icon": "minecraft:skeleton_skull",
-    "order": 0,
     "impact": 2,
-    "name": "Skeleton",
-    "description": "The arrow shooting, click-clacking, music disc making undead that we all know and love."
 }
