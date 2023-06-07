@@ -5,8 +5,8 @@
         "bits-and-bones-origin:skeleton/tasty_flesh",
         "bits-and-bones-origin:skeleton/undead"
         "bits-and-bones-origin:skeleton/fragile"
-        "bits-and-bones-origin:skeleton/undead"
-        "bits-and-bones-origin:skeleton/undead"
+        "bits-and-bones-origin:skeleton/carnivore"
+        "bits-and-bones-origin:skeleton/archer"
     ],
     "icon": "minecraft:skeleton_skull",
     "order": 0,
