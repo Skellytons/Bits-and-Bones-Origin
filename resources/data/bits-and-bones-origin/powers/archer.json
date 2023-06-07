@@ -14,7 +14,7 @@
 				"item_condition":{
 					"type":"origins:ingredient",
 					"ingredient":{
-						"tag":"origins-plus-plus:axes"
+						"tag":"origins:ranged_weapons"
 					}
 				}
 			}
