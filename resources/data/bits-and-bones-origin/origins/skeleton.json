@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "bits-and-bones-origin:skeleton/chains_of_death",
+        "origins:elytra",
+        "origins:throw_ender_pearl",
+        "origins:fresh_air"
+    ],
+    "icon": "minecraft:skeleton_skull",
+    "order": 0,
+    "impact": 2,
+    "name": "Skeleton",
+    "description": "The arrow shooting, click-clacking, music disc making undead that we all know and love."
+}
