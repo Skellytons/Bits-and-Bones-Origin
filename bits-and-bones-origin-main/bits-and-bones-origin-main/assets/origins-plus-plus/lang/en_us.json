@@ -1,0 +1,16 @@
+{
+	"origin.bits-and-bones-origin.skeleton.description":"The arrow shooting, click-clacking, music disc making undead that we all know and love.",
+	"origin.bits-and-bones-origin.skeleton.name":"Skeleton",
+	"power.bits-and-bones-origin.skeleton/undead.description":"You're an undead. Be wary of Smites.",
+	"power.bits-and-bones-origin.skeleton/undead.name":"Undead",
+	"power.bits-and-bones-origin.skeleton/carnivore.description":"Veggies ain't gonna cut it for the undead lifestyle.",
+	"power.bits-and-bones-origin.skeleton/carnivore.name":"Carnivore",
+	"power.bits-and-bones-origin.skeleton/tasty_flesh.description":"You like your meat with a little extra flavor. Specifically the flavor of rot.",
+	"power.bits-and-bones-origin.skeleton/tasty_flesh.name":"Tasty Flesh",
+	"power.bits-and-bones-origin.skeleton/fragile.description":"Your bones have grown a bit brittle after becoming undead. You have 2 less health.",
+	"power.bits-and-bones-origin.skeleton/fragile.name":"Brittle Bones",
+	"power.bits-and-bones-origin.skeleton/hunger_immunity.description":"Raw and rotten meat doesnt give you a tummy-ache! Mainly because you dont have a stomach.",
+	"power.bits-and-bones-origin.skeleton/hunger_immunity.name":"Salmonella Who?",
+	"power.bits-and-bones-origin.skeleton/burn_in_daylight.description":"You're undead bud, and unless you got some spf 50 you're gonna burn in the sun.",
+	"power.bits-and-bones-origin.skeleton/burn_in_daylight.name":"IT BURNS!!!",
+}
