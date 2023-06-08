@@ -6,6 +6,9 @@
         "bits-and-bones-origin:skeleton/undead"
         "bits-and-bones-origin:skeleton/fragile"
         "bits-and-bones-origin:skeleton/carnivore"
+        "bits-and-bones-origin:skeleton/hit"
+        "bits-and-bones-origin:skeleton/passive"
+        "bits-and-bones-origin:skeleton/death"
     ],
     "icon": "minecraft:skeleton_skull",
     "impact": 2,
