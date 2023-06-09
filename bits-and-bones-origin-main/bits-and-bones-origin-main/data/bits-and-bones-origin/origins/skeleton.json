@@ -10,6 +10,7 @@
         "bits-and-bones-origin:skeleton/passive"
         "bits-and-bones-origin:skeleton/death"
         "bits-and-bones-origin:skeleton/breath"
+        "bits-and-bones-origin:skeleton/night_vision"
     ],
     "icon": "minecraft:skeleton_skull",
     "impact": 2,
