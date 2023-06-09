@@ -9,6 +9,7 @@
         "bits-and-bones-origin:skeleton/hit"
         "bits-and-bones-origin:skeleton/passive"
         "bits-and-bones-origin:skeleton/death"
+        "bits-and-bones-origin:skeleton/breath"
     ],
     "icon": "minecraft:skeleton_skull",
     "impact": 2,
