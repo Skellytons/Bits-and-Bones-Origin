@@ -13,6 +13,6 @@
 	"power.bits-and-bones-origin.skeleton/hunger_immunity.name":"Salmonella Who?",
 	"power.bits-and-bones-origin.skeleton/burn_in_daylight.description":"You're undead bud, and unless you got some spf 50 you're gonna burn in the sun.",
 	"power.bits-and-bones-origin.skeleton/burn_in_daylight.name":"IT BURNS!!!",
-	"power.bits-and-bones-origin.skeleton/burn_in_daylight.description":"You don't have any lungs! No need to worry about holding your breath underwater.",
-	"power.bits-and-bones-origin.skeleton/burn_in_daylight.name":"No Lungs",
+	"power.bits-and-bones-origin.skeleton/breath.description":"You don't have any lungs! No need to worry about holding your breath underwater.",
+	"power.bits-and-bones-origin.skeleton/breath.name":"No Lungs",
 }
